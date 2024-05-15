@@ -39,7 +39,7 @@
 
 <div align="left">
   <ul><ul><ul><ul><ul>
-<a href="https://www.instagram.com/jaop.braga/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=transparent" height="35" alt="instagram logo"/></a> <a href="mailto:joaopedrobraga2701@gmail.com?subject=(Freelancer%2FEntrevista)" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=transparent" height="35" alt="gmail logo"/></a> <a href="https://www.linkedin.com/in/joao-pedro-braga-/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=transparent" height="35.1" width="17%" alt="linkedin logo"/></a>
+ <a href="https://www.instagram.com/jaop.braga/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=transparent" height="35" alt="instagram logo"/></a> <a href="mailto:joaopedrobraga2701@gmail.com?subject=(Freelancer%2FEntrevista)" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=transparent" height="35" alt="gmail logo"/></a> <a href="https://www.linkedin.com/in/joao-pedro-braga-/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=transparent" height="35.1" width="17%" alt="linkedin logo"/></a>
     
 </div>
 
