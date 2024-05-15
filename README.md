@@ -6,19 +6,10 @@
 - 😄 Pronomes: Ele/Dele
 
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=JaoPedroBraga&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  (
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=JaoPedroBrag&theme=tokyonight&hide_border=false"
-    media="(prefers-color-scheme: dark)"
-  />
-
+![](https://github-readme-stats.vercel.app/api?username=JaoPedroBraga&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=JaoPedroBraga&theme=tokyonight&hide_border=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaoPedroBraga&langs_count=8&theme=tokyonight&hide_border=false&layout=compact&include_all_commits=true&count_private=true)
-</picture>
+
 
 
 
