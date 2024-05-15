@@ -6,15 +6,9 @@
 - 😄 Pronomes: Ele/Dele
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaoPedroBraga&show_icons=true&theme=tokyonight&hide_border=false&card_width=220)
-![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=JaoPedroBraga&theme=tokyonight&hide_border=false&card_width=320)<br/>
+![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=JaoPedroBraga&theme=tokyonight&hide_border=false&card_width=320)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JaoPedroBraga&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=120)
 
-<a href="https://github.com/JaoPedroBraga/github-readme-stats">
-  <img margin-left=20 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JaoPedroBraga&tokyonight" />
-</a>
-<a href="https://github.com/JaoPedroBraga/convoychat">
-  <img height=200 width=350  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JaoPedroBraga&layout=compact&langs_count=8&card_width=320&tokyonight" />
-</a>
 
 
 
