@@ -6,7 +6,7 @@
 - 😄 Pronomes: Ele/Dele
 
 
-<a style="margin-left=10px;" href="https://github.com/anuraghazra/github-readme-stats">
+<a style="margin-left:20%;" href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JaoPedroBraga" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
