@@ -17,10 +17,7 @@
     media="(prefers-color-scheme: dark)"
   />
   
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JaoPedroBrag&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"
-     media="(prefers-color-scheme: dark)"
-  />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 </picture>
 
 
