@@ -1,18 +1,58 @@
-### Olá! Eu sou o João Pedro 👋
+<h2 align="left">Olá! Eu sou o João Pedro 👋</h2>
 
 - 🔭 Atualmente trabalho na área no back-end com algumas participasções no front-end
 - 🌱 Estudando criações de API's
 - 📫 Contate-me no E-mail: joaopedrobraga2701@gmail.com
 - 😄 Pronomes: Ele/Dele
 
-<html>
-  <div style="align-items: center;display: inline-block;">
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/93070b036988d0b72e5080f88f8de431215ebccb016f3d3136e3c8408437ee1a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4a616f506564726f42726167612673686f775f69636f6e733d74727565267468656d653d746f6b796f6e6967687426686964655f626f726465723d66616c736526636172645f77696474683d323230"><img src="https://camo.githubusercontent.com/93070b036988d0b72e5080f88f8de431215ebccb016f3d3136e3c8408437ee1a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4a616f506564726f42726167612673686f775f69636f6e733d74727565267468656d653d746f6b796f6e6967687426686964655f626f726465723d66616c736526636172645f77696474683d323230" alt="Anurag's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=JaoPedroBraga&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=false&amp;card_width=220" style="max-width: 100%;"></a>
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/628b98ec710ef0fa5d0828a6d8bc13c6e5192990b480233d22c2df99e0713226/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4a616f506564726f4272616761267468656d653d746f6b796f6e6967687426686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565266c61796f75743d636f6d7061637426636172645f77696474683d313230"><img src="https://camo.githubusercontent.com/628b98ec710ef0fa5d0828a6d8bc13c6e5192990b480233d22c2df99e0713226/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4a616f506564726f4272616761267468656d653d746f6b796f6e6967687426686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565266c61796f75743d636f6d7061637426636172645f77696474683d313230" alt="Anurag's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaoPedroBraga&amp;theme=tokyonight&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact&amp;card_width=120" style="max-width: 100%; margin-top: -200px;"></a>
-    
 
-  </div>
-</html>
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JaoPedroBraga&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JaoPedroBraga&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" width="160" height="170" src="https://i.pinimg.com/originals/46/9a/2f/469a2f1ae5257059b8b3b6e3689321a3.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 
