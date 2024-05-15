@@ -5,16 +5,12 @@
 - 🌱 Estudando criações de API's
 - 😄 Pronomes: Ele/Dele
 
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JaoPedroBraga&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&theme=dracula&hide_border=false&disable_animations=false&locale=en" height="150" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JaoPedroBraga&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" width="300" height="150" alt="languages graph"  />
 </div>
 
-###
 <img align="right" width="170" height="190" src="https://i.pinimg.com/originals/27/9c/76/279c7613cda2f16a431a028914fc0511.gif"  />
-###
 <br>
 <br>
 
@@ -40,8 +36,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
-
-###
 
 <div align="left">
   <ul><ul><ul><ul><ul><ul>
