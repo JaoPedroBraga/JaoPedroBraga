@@ -5,7 +5,7 @@
 - 📫 Contate-me no E-mail: joaopedrobraga2701@gmail.com
 - 😄 Pronomes: Ele/Dele
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaoPedroBraga&show_icons=true&tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaoPedroBraga&show_icons=true&tokyonight&card_width=320)
 
 <a href="https://github.com/JaoPedroBraga/github-readme-stats">
   <img margin-left=20 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JaoPedroBraga&tokyonight" />
