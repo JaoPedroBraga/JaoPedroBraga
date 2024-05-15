@@ -16,8 +16,8 @@
     srcset="https://github-readme-streak-stats.herokuapp.com/?user=JaoPedroBrag&theme=tokyonight&hide_border=false"
     media="(prefers-color-scheme: dark)"
   />
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaoPedroBraga&langs_count=8&theme=tokyonight&hide_border=false&layout=compact&include_all_commits=true&count_private=true)
 </picture>
 
 
