@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá! Eu sou o João Pedro 👋
 
-<!--
-**JaoPedroBraga/JaoPedroBraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente trabalho na área no back-end com algumas participasções no front-end
+- 🌱 Estudando criações de API's
+- 📫 Contate-me no E-mail: joaopedrobraga2701@gmail.com
+- 😄 Pronouns: Ele/Dele
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JaoPedroBraga&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=JaoPedroBraga&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JaoPedroBraga&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
