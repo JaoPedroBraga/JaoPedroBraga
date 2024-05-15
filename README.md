@@ -11,23 +11,16 @@
     srcset="https://github-readme-stats.vercel.app/api?username=JaoPedroBraga&show_icons=true&theme=tokyonight"
     media="(prefers-color-scheme: dark)"
   />
+  (
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=JaoPedroBraga&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=JaoPedroBraga&show_icons=true" />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=JaoPedroBraga&show_icons=true&theme=dark"
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=JaoPedroBrag&theme=tokyonight&hide_border=false"
     media="(prefers-color-scheme: dark)"
   />
+  
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=JaoPedroBraga&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JaoPedroBrag&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"
+     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?JaoPedroBraga=anuraghazra&show_icons=true" />
 </picture>
 
 
