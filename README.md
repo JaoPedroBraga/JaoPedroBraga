@@ -6,10 +6,12 @@
 - 😄 Pronomes: Ele/Dele
 
 
-![](https://github-readme-stats.vercel.app/api?username=JaoPedroBraga&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=JaoPedroBraga&theme=tokyonight&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaoPedroBraga&langs_count=8&theme=tokyonight&hide_border=false&layout=compact&include_all_commits=true&count_private=true)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JaoPedroBraga" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JaoPedroBraga&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 
 
