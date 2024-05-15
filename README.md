@@ -3,7 +3,7 @@
 - 🔭 Atualmente trabalho na área no back-end com algumas participasções no front-end
 - 🌱 Estudando criações de API's
 - 📫 Contate-me no E-mail: joaopedrobraga2701@gmail.com
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronomes: Ele/Dele
 
 
 # 📊 GitHub Stats:
