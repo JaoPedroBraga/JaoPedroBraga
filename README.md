@@ -15,7 +15,7 @@
 
 ###
 
-<img align="right" width="160" height="170" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz6c63PL6tXHBkVjBhbD_PosnUK2OXYnpglrd06-5-MmuoBMIbqws9ivLY_pirkjBT0vExrn69cWpUY7pTE4abIPD-p_5tXpLKS51m84jWsUB7gWJlCwROxafVsL1qv-CuvmIRd1AUxPh9/s1000/CHAINSAW+MAN+animated.gif"  />
+<img align="right" width="300" height="210" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz6c63PL6tXHBkVjBhbD_PosnUK2OXYnpglrd06-5-MmuoBMIbqws9ivLY_pirkjBT0vExrn69cWpUY7pTE4abIPD-p_5tXpLKS51m84jWsUB7gWJlCwROxafVsL1qv-CuvmIRd1AUxPh9/s1000/CHAINSAW+MAN+animated.gif"  />
 
 ###
 
