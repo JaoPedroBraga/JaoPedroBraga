@@ -6,7 +6,7 @@
 - 😄 Pronomes: Ele/Dele
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaoPedroBraga&show_icons=true&theme=dracula" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JaoPedroBraga&theme=dracula" height="150" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JaoPedroBraga&theme=dracula&layout=donut" width="300" height="150" alt="languages graph"/>
 </div>
 
