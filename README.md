@@ -3,7 +3,6 @@
 - 📠 Web Developer
 - 🔭 Atualmente realizo trabalhos na área no back-end com algumas participações no front-end
 - 🌱 Estudando criações de API's
-- 😄 Pronomes: Ele/Dele
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JaoPedroBraga&theme=dracula&layout=donut" height="150" alt="stats graph"/>
